@@ -1,0 +1,11 @@
+{
+  "name": "rmwc-onboarding",
+  "version": "0.0.1",
+  "description": "React onboarding component, based on Material Design's spec and built with RMWC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Mahon <daniel@mahonstudios.com>",
+  "license": "MIT"
+}
